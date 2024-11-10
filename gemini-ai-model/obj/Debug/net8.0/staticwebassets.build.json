@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3giCbwcjFoieR49cGJ1Yr+7XzdizJgbM8Y9jO1OSLvQ=",
+  "Source": "gemini-ai-model",
+  "BasePath": "_content/gemini-ai-model",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
