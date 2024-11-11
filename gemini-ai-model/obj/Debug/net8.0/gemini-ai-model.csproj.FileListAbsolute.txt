@@ -26,3 +26,5 @@
 /Users/filiphuhta/Documents/Projects/dotnet/gemini-ai-model/obj/Debug/net8.0/gemini-ai-model.pdb
 /Users/filiphuhta/Documents/Projects/dotnet/gemini-ai-model/obj/Debug/net8.0/gemini-ai-model.genruntimeconfig.cache
 /Users/filiphuhta/Documents/Projects/dotnet/gemini-ai-model/obj/Debug/net8.0/ref/gemini-ai-model.dll
+/Users/filiphuhta/Documents/Projects/dotnet/gemini-ai-model/bin/Debug/net8.0/appsettings.example.json
+/Users/filiphuhta/Documents/Projects/dotnet/gemini-ai-model/obj/Debug/net8.0/gemini-ai-model.sourcelink.json

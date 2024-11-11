@@ -1,11 +1,7 @@
-using System.Net.Http;
 using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
-using Microsoft.Extensions.Logging;
-internal sealed class GeminiClient
+public class GeminiClient
 {
     private readonly HttpClient _httpClient;
     private readonly ILogger<GeminiClient> _logger;

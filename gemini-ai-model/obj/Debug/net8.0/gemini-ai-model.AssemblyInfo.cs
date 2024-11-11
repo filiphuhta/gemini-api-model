@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gemini-ai-model")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+308f18a668cd161825328afd390ddb33c807cf9b")]
 [assembly: System.Reflection.AssemblyProductAttribute("gemini-ai-model")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gemini-ai-model")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
